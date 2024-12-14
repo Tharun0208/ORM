@@ -47,9 +47,11 @@ class EmployeeAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
+![web 3](https://github.com/user-attachments/assets/d032542d-068a-4c52-8f4a-8958f0d48da4)
 ![Screenshot 2024-12-14 101309](https://github.com/user-attachments/assets/95ce9006-338a-417a-884e-0018e996ae3e)
 
 ![Screenshot 2024-12-14 101245](https://github.com/user-attachments/assets/c277f85c-71bb-47c5-858d-15b1e3f33713)
+
 
 
 ## RESULT
